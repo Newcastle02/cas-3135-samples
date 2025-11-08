@@ -48,3 +48,7 @@
 * `01-configmap`: k8s manifests for sample ConfigMaps and Deployments
 * `02-secret`: a demo showing typical usage patterns for ConfigMaps and Secrets
 
+### Lecture 11-02
+
+* `01-local`: k8s manifests and Terraform configurations for deployment to local cluster
+

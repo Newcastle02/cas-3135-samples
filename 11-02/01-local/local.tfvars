@@ -1,0 +1,5 @@
+container_image_be = "<Your container image for the backend>"
+container_image_fe = "<Your container image for the frontend>"
+frontend_url = "http://localhost:30030"
+backend_url = "http://localhost:30031"
+kubernetes_config_path = "~/.kube/config"
